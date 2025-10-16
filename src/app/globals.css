@@ -128,7 +128,7 @@ body {
 }
 
 .primary-bg-gradient {
-  @apply bg-gradient-to-b from-[#2a6fd3] via-[#2a6fd3] to-[#d9726e];
+  @apply bg-gradient-to-b from-[#bd594a] via-[#bd594a] to-[#d9726e];
 }
 
 .main-search {
