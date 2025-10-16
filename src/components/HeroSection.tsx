@@ -12,7 +12,7 @@ import { IoSearchOutline } from "react-icons/io5";
 import Link from "next/link";
 import { usePainters } from "@/context/PaintersContext";
 
-import MainImage from "@/images/background/chooz_plumbers_header-1.png";
+import MainImage from "@/images/background/chooz_roofers_header-1.png";
 import BackgroundImage from "@/images/background/chooz_plumbers_header-wallpaper.png";
 
 const HeroSection = () => {
