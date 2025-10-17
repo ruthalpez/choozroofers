@@ -141,10 +141,10 @@ const HeroSection = () => {
       />
       <div className="container xl:max-w-[1100px] mx-auto px-5 md:pt-5 relative z-20">
         <h1 className="text-[45px] lg:text-[65px] font-bold leading-14 mb-5 font-poppins">
-          Need A Roofer?
+          Need a roofing company?
         </h1>
         <p className="text-[20px] lg:text-[35px] font-medium font-poppins">
-          Find the best Roofers near you
+          Find the best roofers near you
         </p>
         <div className="flex flex-col lg:flex-row justify-between gap-20 lg:gap-40">
           <div className="w-full lg:w-1/2">
