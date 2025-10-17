@@ -9,9 +9,9 @@
   --font-nunito: var(--font-nunito);
 
   --clr-primary: #1b356c;
-  --clr-secondary: #a53f3d;
-  --clr-tertiary: #3258a4;
-  --clr-icon-check: #3258a4;
+  --clr-secondary: #A53E3C;
+  --clr-tertiary: #FFA471;
+  --clr-icon-check: #FFA471;
   --clr-icon-check-dark: #1b356c;
 
   --clr-heading: #13344e;
@@ -128,7 +128,7 @@ body {
 }
 
 .primary-bg-gradient {
-  @apply bg-gradient-to-b from-[#bd594a] via-[#bd594a] to-[#d9726e];
+  @apply bg-gradient-to-b from-[#FFA471] via-[#FFA471] to-[#A53E3C];
 }
 
 .main-search {

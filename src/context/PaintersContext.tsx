@@ -349,6 +349,7 @@ export const PaintersProvider = ({ children }: { children: ReactNode }) => {
     },
     [currentState, currentCity, sortByRating, debouncedFetch],
   );
+  
 
   // Effects with dependency optimization
   useEffect(() => {
